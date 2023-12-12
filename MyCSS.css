@@ -1,0 +1,51 @@
+#p1 {
+  font-style: italic;
+  font-size: 50px;
+  background-color: rgb(131, 255, 236);
+  height: 100px;
+  width: 1000px;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding-top: 25px;
+}
+
+#p2 {
+  color: white;
+  font-size: 30px;
+  background-color: rgb(184, 131, 237);
+  height: 50px;
+  width: 1000px;
+  text-align: center;
+  display: table-cell;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding-top: 10px;
+}
+
+#p3 {
+  color: white;
+  background-color: rgb(234, 156, 192);
+  height: 550px;
+  width: 1000px;
+  display: table-cell;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+#span {
+  font-size: 40px;
+  background-color: rgb(131, 255, 236);
+  height: 50px;
+  width: 1000px;
+  text-align: center;
+  display: table-cell;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
